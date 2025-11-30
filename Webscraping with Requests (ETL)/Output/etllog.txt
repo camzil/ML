@@ -1,0 +1,9 @@
+2025-11-29-18:23:22.698552, ETL Pipeline Started
+2025-11-29-18:23:22.699461, Extract Phase Started
+2025-11-29-18:23:23.007579, Extract Phase Ended
+2025-11-29-18:23:23.007833, Transform Phase Started
+2025-11-29-18:23:23.011323, Transform Phase Ended
+2025-11-29-18:23:23.011510, Load Phase (sqlite db) Started
+2025-11-29-18:23:23.021755, Load Phase (sqlite db) Ended
+2025-11-29-18:23:23.021899, Load Phase (csv) Started
+2025-11-29-18:23:23.029954, Load Phase (csv) Ended
